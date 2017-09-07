@@ -6,28 +6,33 @@
 
 --------------------------  
 ## 2. Cистема верстки TEX и расширения LATEX ##
-+ Установка Латех на Ubuntu
+Основные моменты обучения взаимодействия с Latex:
++ Установка Латех на Ubuntu с использованием терминала
 + Литература по Latex
 + Формулы
 + Отчет
-+ Подробнее см. в директории Latex, SVN, GCC  
+Подробнее см. в директории "1 семестр"  
+
 --------------------------  
 ## 3. Cистема контроля версий SVN ##
 + Просмотр стандартных команд
 + http://svnbook.red-bean.com/nightly/ru/index.html
-+ Подробнее см. в директории Latex, SVN, GCC  
++ Подробнее см. в директории Latex, SVN, GCC
+
 --------------------------  
 ## 4. Сборка с использованием компилятора GCC, утилиты make, qmake ##
 + Процесс компилирования вручную
 + https://gcc.gnu.org/onlinedocs/gcc-5.2.0/gcc.pdf
 + http://www.gnu.org/software/make/manual/make.pdf
 + http://doc.qt.io/qt-5/qmake-manual.html
-+ Подробнее см. в директории Latex, SVN, GCC 
++ Подробнее см. в директории Latex, SVN, GCC
+
 --------------------------  
 ## 5. Ubuntu ##
 + Установка
 + Работа с терминалом
 + Установка гит
+
 --------------------------  
 ## 6. Git ##
 + Установка
@@ -36,6 +41,7 @@
 Он-лайн уроки:
 https://try.github.io/levels/1/challenges/1
 http://pcottle.github.io/learnGitBranching/
+
 --------------------------  
 ## 7. Задания 1 семестра ##
 Ко третьей лабе:
@@ -74,6 +80,7 @@ http://tmpaconf.org/
 --------------------------
 ## 9. Рефакторинг (Фаулер) ##
 https://www.assembla.com/spaces/octocoder/documents/djl50WGv4r5lr2dmr6bg7m/download/djl50WGv4r5lr2dmr6bg7m
+
 --------------------------
 ## 10. Doxygen ##
 http://www.stack.nl/~dimitri/doxygen/
@@ -85,18 +92,22 @@ http://www.stack.nl/~dimitri/doxygen/
 Так что разбирайтесь.
 Сделайте коммит сначала с исходным конфигом, который делает doxygen,
 а потом с модифицированным вами. И refman.pdf
+
 --------------------------
 ## 11. Valgrind ##
 http://www.valgrind.org/
+
 --------------------------  
 ## 12. Утилита cppcheck ##
 http://cppcheck.sourceforge.net/
 cppcheck --enable=all *
+
 --------------------------
 ## 14. UML ##
 Буч Рамбо
 нужно до понедельника прочитать и осознать главы
 1, 2, 3, 12, 16, 17, 18, 19, 32.
+
 --------------------------
 ## 15. Задания 2 семестра ##
 
@@ -157,21 +168,27 @@ https://docs.google.com/spreadsheets/d/1MD0GeCpA8NQHagB2AJxmbIn8qx0CPGznbtV_eNQr
 либо прокомментировать, если не согласны.
 
 9. Возможно повторить пункты 7-8.
+
 --------------------------
 ## 16. маркдаун ##
 https://help.github.com/categories/writing-on-github/
+
 --------------------------
 ## 17. Система непрерывной интеграции Jenkins ##
 + aaa;
+
 --------------------------
 ## 18. Семинару по стандарту безопасного кодинга CERT ##
 https://www.securecoding.cert.org/confluence/pages/viewpage.action?pageId=637
+
 --------------------------
 ## 19. Эффективное использование C++ ##
 https://www.assembla.com/spaces/octocoder/documents/dNWRdss8mr5jm5dmr6bg7m/download/dNWRdss8mr5jm5dmr6bg7m
+
 --------------------------
 ## 20. Эффективное использование STL ##
 https://www.assembla.com/spaces/octocoder/documents/dz0F9g9G8r44y3dmr6bg7m/download/dz0F9g9G8r44y3dmr6bg7m
+
 --------------------------
 ## 21. Страуструпа ##
 Страуструп (на англ)
@@ -192,11 +209,13 @@ Git
 
 Перегрузка операторов	
 Глава 11
+
 --------------------------
 ## 22. Банды четырех ##
 Банда четырех
 Читайте первую и вторую главы,
 https://www.assembla.com/spaces/octocoder/documents/cm3B_M3OOr46OAacwqjQWU/download/cm3B_M3OOr46OAacwqjQWU
+
 --------------------------
 ## 23. Qt книга Шлее ##
 книга Макса Шлее про Qt,
@@ -219,4 +238,5 @@ https://www.assembla.com/spaces/octocoder/documents/aotJTS9Her46C-acwqjQXA/downl
 Таким образом, не возбраняется делать gui, для функциональностей
 уже реализованных методов ядра в отдельной ветке.
 Но надо помнить про необходимость как-только-так-сразу выпуска mvp.
+
 --------------------------
