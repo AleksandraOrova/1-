@@ -90,13 +90,18 @@
 
 --------------------------  
 ## 6. Git ##
-+ Установка
-+ Обучение
-+ Основной функционал
-Он-лайн уроки:
-https://try.github.io/levels/1/challenges/1
-http://pcottle.github.io/learnGitBranching/
++ Обучение: learngitbranching.js.org/
++ Он-лайн уроки: https://try.github.io/levels/1/challenges/1, ++ http://pcottle.github.io/learnGitBranching/.
++ Просмотр стандартных команд:
 
+      git clone
+      git add  
+      git add --a 
+      git rm
+      git commit -m"text"   
+      git push
+      git merge
+      git status
 --------------------------  
 ## 7. Задания 1 семестра ##
 Ко третьей лабе:
