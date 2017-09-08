@@ -25,6 +25,7 @@
 + Задание от преподавателя
 
 Литературу, пример отчета и задание от преподавателя на паре см. в директории "Latex, SVN, GCC". 
+![pic.1](https://github.com/AleksandraOrova/FirstCourse/blob/master/%D0%A1%D0%BA%D0%B0%D0%BD%D1%8B/2.jpg)
 
 --------------------------  
 ## 3. Cистема контроля версий SVN ##
@@ -40,6 +41,7 @@
  + Попытки использования системы контроля версий
 
 Задание от преподавателя на паре см. в директории "Latex, SVN, GCC".
+![pic.1](https://github.com/AleksandraOrova/FirstCourse/blob/master/%D0%A1%D0%BA%D0%B0%D0%BD%D1%8B/3.jpg)
 
 --------------------------  
 ## 4. Сборка с использованием компилятора GCC, утилиты make, qmake ##
@@ -176,15 +178,26 @@
 
 --------------------------
 ## 17. Семинару по стандарту безопасного кодинга CERT ##
-https://www.securecoding.cert.org/confluence/pages/viewpage.action?pageId=637
+![pic.1](https://github.com/AleksandraOrova/FirstCourse/blob/master/%D0%A1%D0%BA%D0%B0%D0%BD%D1%8B/14.jpg)
+![pic.2](https://github.com/AleksandraOrova/FirstCourse/blob/master/%D0%A1%D0%BA%D0%B0%D0%BD%D1%8B/15.jpg)
+![pic.3](https://github.com/AleksandraOrova/FirstCourse/blob/master/%D0%A1%D0%BA%D0%B0%D0%BD%D1%8B/16.jpg)
+Информацию брали отсюда:
+https://www.securecoding.cert.org/confluence/pages/viewpage.action?pageId=637.
 
 --------------------------
 ## 18. Эффективное использование C++ ##
-https://www.assembla.com/spaces/octocoder/documents/dNWRdss8mr5jm5dmr6bg7m/download/dNWRdss8mr5jm5dmr6bg7m
+![pic.1](https://github.com/AleksandraOrova/FirstCourse/blob/master/%D0%A1%D0%BA%D0%B0%D0%BD%D1%8B/17.jpg)
+![pic.2](https://github.com/AleksandraOrova/FirstCourse/blob/master/%D0%A1%D0%BA%D0%B0%D0%BD%D1%8B/18.jpg)
+Информацию брали отсюда:
+https://www.assembla.com/spaces/octocoder/documents/dNWRdss8mr5jm5dmr6bg7m/download/dNWRdss8mr5jm5dmr6bg7m.
 
 --------------------------
 ## 19. Эффективное использование STL ##
-https://www.assembla.com/spaces/octocoder/documents/dz0F9g9G8r44y3dmr6bg7m/download/dz0F9g9G8r44y3dmr6bg7m
+![pic.1](https://github.com/AleksandraOrova/FirstCourse/blob/master/%D0%A1%D0%BA%D0%B0%D0%BD%D1%8B/11.jpg)
+![pic.2](https://github.com/AleksandraOrova/FirstCourse/blob/master/%D0%A1%D0%BA%D0%B0%D0%BD%D1%8B/12.jpg)
+![pic.3](https://github.com/AleksandraOrova/FirstCourse/blob/master/%D0%A1%D0%BA%D0%B0%D0%BD%D1%8B/13.jpg)
+Информацию брали отсюда:
+https://www.assembla.com/spaces/octocoder/documents/dz0F9g9G8r44y3dmr6bg7m/download/dz0F9g9G8r44y3dmr6bg7m.
 
 --------------------------
 ## 20. Страуструпа ##
@@ -213,9 +226,11 @@ Git
 
 --------------------------
 ## 21. Банды четырех ##
-Банда четырех
-Читайте первую и вторую главы,
-https://www.assembla.com/spaces/octocoder/documents/cm3B_M3OOr46OAacwqjQWU/download/cm3B_M3OOr46OAacwqjQWU
+Читали первую и вторую главы, информацию брали отсюда:
+https://www.assembla.com/spaces/octocoder/documents/cm3B_M3OOr46OAacwqjQWU/download/cm3B_M3OOr46OAacwqjQWU.
+![pic.1](https://github.com/AleksandraOrova/FirstCourse/blob/master/%D0%A1%D0%BA%D0%B0%D0%BD%D1%8B/19.jpg)
+![pic.2](https://github.com/AleksandraOrova/FirstCourse/blob/master/%D0%A1%D0%BA%D0%B0%D0%BD%D1%8B/20.jpg)
+![pic.3](https://github.com/AleksandraOrova/FirstCourse/blob/master/%D0%A1%D0%BA%D0%B0%D0%BD%D1%8B/21.jpg)
 
 --------------------------
 ## 22. Qt книга Шлее ##
