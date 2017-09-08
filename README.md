@@ -90,8 +90,8 @@
 
 --------------------------  
 ## 6. Git ##
-+ Обучение: learngitbranching.js.org/
-+ Он-лайн уроки: https://try.github.io/levels/1/challenges/1, ++ http://pcottle.github.io/learnGitBranching/.
++ Обучение: www.learngitbranching.js.org/
++ Он-лайн уроки: https://try.github.io/levels/1/challenges/1, http://pcottle.github.io/learnGitBranching/
 + Просмотр стандартных команд:
 
       git clone
@@ -104,22 +104,15 @@
       git status
 --------------------------  
 ## 7. Задания 1 семестра ##
-Ко третьей лабе:
-stdio.h
-http://www.cplusplus.com/reference/cstdio/
-Как минимум:
-puts, printf, scanf, fopen, fclose, fprintf, fscanf, feof, ferror 
+Задания по лабораторным см. в директории "Лабораторные за 1 семестр".
 
-stdlib.h
-http://www.cplusplus.com/reference/cstdlib/
-Как минимум:
-malloc, free
-
-math.h
-http://www.cplusplus.com/reference/cmath/
-к 4 лабе
-Функции для работысо строками в string.h :
-http://www.cplusplus.com/reference/cstring/
+Также были пояснения к следующим лабораторным:
++ К третьей лабораторной:
+	stdio.h: puts, printf, scanf, fopen, fclose, fprintf, fscanf, feof, ferror (http://www.cplusplus.com/reference/cstdio/)
+	stdlib.h: malloc, free (http://www.cplusplus.com/reference/cstdlib/)
+	math.h (http://www.cplusplus.com/reference/cmath/)
++ К четвертой лабораторной: 
+	функции для работысо строками в string.h : http://www.cplusplus.com/reference/cstring/
 
 --------------------------
 ## 8. Конференция TMPA ##
