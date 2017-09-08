@@ -243,3 +243,6 @@ https://www.assembla.com/spaces/octocoder/documents/aotJTS9Her46C-acwqjQXA/downl
 --------------------------
 
 ## 23. Семинар по стандартам С++ 11/14
+![pic.1](https://github.com/AleksandraOrova/FirstCourse/blob/master/%D0%A1%D0%BA%D0%B0%D0%BD%D1%8B/22.jpg)
+![pic.2](https://github.com/AleksandraOrova/FirstCourse/blob/master/%D0%A1%D0%BA%D0%B0%D0%BD%D1%8B/23.jpg)
+![pic.3](https://github.com/AleksandraOrova/FirstCourse/blob/master/%D0%A1%D0%BA%D0%B0%D0%BD%D1%8B/24.jpg)
