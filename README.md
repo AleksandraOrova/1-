@@ -204,7 +204,7 @@ https://www.assembla.com/spaces/octocoder/documents/dNWRdss8mr5jm5dmr6bg7m/downl
 https://www.assembla.com/spaces/octocoder/documents/dz0F9g9G8r44y3dmr6bg7m/download/dz0F9g9G8r44y3dmr6bg7m.
 
 --------------------------
-## 20. Страуструпа ##
+## 20. Теоретический зачет по С++ ##
 Страуструп (на англ):
 https://www.assembla.com/spaces/octocoder/documents/c-9yPMcCOr5iO0acwqjQXA/download/c-9yPMcCOr5iO0acwqjQXA.
 
@@ -219,7 +219,7 @@ https://www.assembla.com/spaces/octocoder/documents/c-9yPMcCOr5iO0acwqjQXA/downl
 + Git
 
 --------------------------
-## 21. Банды четырех ##
+## 21. Семинар по шаблонам проектирования (паттернам) ##
 Читали первую и вторую главы, информацию брали отсюда:
 https://www.assembla.com/spaces/octocoder/documents/cm3B_M3OOr46OAacwqjQWU/download/cm3B_M3OOr46OAacwqjQWU.
 ![pic.1](https://github.com/AleksandraOrova/FirstCourse/blob/master/%D0%A1%D0%BA%D0%B0%D0%BD%D1%8B/19.jpg)
